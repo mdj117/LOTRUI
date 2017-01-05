@@ -1,0 +1,9 @@
+{
+    "id" : "LOTRUI",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "LOTRUI",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
